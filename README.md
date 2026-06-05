@@ -9,6 +9,6 @@ Get [Sorceress Game Creation Suite](https://sorceress.games/?ref=hayward) an AI-
 🎮 Complete Game Engine (WizardGenie)<br/>
 🎨 Asset Generation Tools<br/>
 🤖 AI Model Hub<br/>
-🕷️ Specialized Rigging<br/><br/>
+🕷️ Specialized Rigging
 
 Pricing Model: Lifetime access for a one-time fee of $49 (includes all future tools), with a free trial available (100 starter credits).
