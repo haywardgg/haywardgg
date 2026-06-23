@@ -4,4 +4,4 @@
   🪦 In loving memory of my son, [Rupert](https://itty.win/rupert) <br/>
   <br/>
   <br/>
-  Calling all AI Vibe Coders:<br/><br/> [Vibed.win](https://vibed.win)
+  Calling all AI Vibe Coders: [Vibed.win](https://vibed.win)
